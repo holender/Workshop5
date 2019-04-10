@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Work3.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Work3.WebApi.Controllers.TestController.Hello">
+            <summary>
+            Some Hello Controller
+            </summary>
+            <returns>returns string hello</returns>
+        </member>
+    </members>
+</doc>
